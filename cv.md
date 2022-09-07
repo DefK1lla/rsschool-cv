@@ -37,4 +37,16 @@ var countBits = function(n) {
   + [code](https://github.com/DefK1lla/conf-propb)  
 * MaranBet:   
   + [preview](https://defk1lla.github.io/maran/dist/)
-  + [code](https://github.com/DefK1lla/maran)
+  + [code](https://github.com/DefK1lla/maran)  
+  
+## Education  
+* Georgian Technical University, Faculty of Informatics  
+* itransition free training
+* RS School, JS/FE2022Q3 (In progress)  
+  
+## Languages  
+* **Armenian**: Native
+* **Russian**: Native
+* **Georgian**: Pre-Intermediate
+* **English**: Elementary
+
