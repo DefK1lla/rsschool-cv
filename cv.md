@@ -26,3 +26,15 @@ var countBits = function(n) {
   return (n.toString(2).match(/1/g) || []).length;
 };
 ``` 
+  
+## Pet-projects   
+* [mern-collections](https://github.com/DefK1lla/itra-course-project)
+* [react-portfolio](https://github.com/DefK1lla/react-portfolio) (In progress, backend not ready)
+  
+## Experience  
+* ProPB conference: 
+  + [preview](https://defk1lla.github.io/conf-propb/)  
+  + [code](https://github.com/DefK1lla/conf-propb)  
+* MaranBet:   
+  + [preview](https://defk1lla.github.io/maran/dist/)
+  + [code](https://github.com/DefK1lla/maran)
